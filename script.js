@@ -63,12 +63,9 @@
 
 
 
-//                10
+//               10
 // let nome  = prompt("Digite o seu primeiro nome.");
 // let sobrenome  = prompt("Digite o seu sobrenome.");
 // let idade = parseInt(prompt("Digite a sua idade"));
 // let setor = prompt("Digite o seu setor");
-// let nomeMaiusculo = `${nome[0].toUpperCase()}${nome.slice(1,)}`;
-// let sobrenomeMaiusculo = `${sobrenome[0].toUpperCase()}${sobrenome.slice(1,)}`;
-// let setorMaiusculo = `${setor[0].toUpperCase()}${setor.slice(1,)}`;
-// alert(`nome: ${nomeMaiusculo} ${sobrenomeMaiusculo} - idade: ${idade} - Setor: ${setorMaiusculo}`);
+// alert(`Nome: ${nome.toUpperCase()} ${sobrenome.toUpperCase()} - Idade: ${idade} - Setor: ${setor}`);
